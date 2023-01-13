@@ -1,3 +1,18 @@
-channels=["quickdealsX", "PremiumLootDeals", "Indiafreestuffin", "Special_Offers_Deals", "TheDealsMaster",
-                "Loot_Offers_Zone", "OMGDeals", "quickdealsX", "IHDBroadcast", "lootersindia",
-                "fltbroadcast", "Quick_deals_tricks"]
+{
+  "Name": "Pratiks",
+  "date": "jan-23",
+  "channels": [
+    "quickdealsX",
+    "PremiumLootDeals",
+    "Indiafreestuffin",
+    "Special_Offers_Deals",
+    "TheDealsMaster",
+    "Loot_Offers_Zone",
+    "OMGDeals",
+    "quickdealsX",
+    "IHDBroadcast",
+    "lootersindia",
+    "fltbroadcast",
+    "Quick_deals_tricks"
+  ]
+}
