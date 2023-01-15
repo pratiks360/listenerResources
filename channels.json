@@ -1,6 +1,7 @@
 {
   "Name": "Pratiks",
   "date": "jan-23",
+  "low_deal_price":99,
   "channels": [
     "quickdealsX",
     "PremiumLootDeals",
